@@ -12,7 +12,7 @@
         <div class="box-container">
             <div class="box">
                 <div class="image">
-                    <img src="images/" alt="">
+                    <img src="../images/softskill1.jpg" alt="">
                 </div>
             </div>
         </div>
